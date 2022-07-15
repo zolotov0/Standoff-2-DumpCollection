@@ -1,5 +1,5 @@
 # Standoff-2-DumpCollection
-Free Standoff 2 dump by @zolotov0
+Free Standoff 2 dump.
 
 Author of all dumps @zolotov0 (my telegram channel https://t.me/zolotov_script).
 
